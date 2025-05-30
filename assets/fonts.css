@@ -1,0 +1,233 @@
+@font-face {
+	font-family: 'vaud';
+	src:url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-thin-webfont._V317489740_.eot');
+	src:url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-thin-webfont._V317489740_.eot') format('embedded-opentype'),
+		url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-thin-webfont._V317489740_.ttf') format('truetype'),
+		url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-thin-webfont._V317489740_.woff') format('woff'),
+		url('fonts/brickcity_icons.svg') format('svg');
+	font-weight: thin;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'vaud';
+	src:url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-webfont._V317489740_.eot');
+	src:url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-webfont._V317489740_.eot') format('embedded-opentype'),
+		url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-webfont._V317489740_.ttf') format('truetype'),
+		url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-webfont._V317489740_.woff') format('woff'),
+		url('fonts/brickcity_icons.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'vaud';
+	src:url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-bold-webfont._V317489740_.eot');
+	src:url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-bold-webfont._V317489740_.eot') format('embedded-opentype'),
+		url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-bold-webfont._V317489740_.ttf') format('truetype'),
+		url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-bold-webfont._V317489740_.woff') format('woff'),
+		url('fonts/brickcity_icons.svg') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'trade gothic';
+	src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/TradeGothicNextLTPro-Rg._V285303686_.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'trade gothic';
+	src: url('http://g-ec2.images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/vaud/vaud-bold-webfont._V317489740_.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'aaux';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-md-webfont._V299207082_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-md-webfont._V299207082_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-md-webfont._V299207082_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-md-webfont._V299207082_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-md-webfont._V299207082_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-md-webfont._V299207082_.svg#aaux_next_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'aaux';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-bd-webfont._V285630899_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-bd-webfont._V285630899_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-bd-webfont._V285630899_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-bd-webfont._V285630899_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-bd-webfont._V285630899_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/aauxnext-bd-webfont._V285630899_.svg#aaux_nextbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'air';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-rg-webfont._V285611695_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-rg-webfont._V285611695_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-rg-webfont._V285611695_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-rg-webfont._V285611695_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-rg-webfont._V285611695_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-rg-webfont._V285611695_.svg#air_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'air';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-bd-webfont._V285630899_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-bd-webfont._V285630899_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-bd-webfont._V285630899_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-bd-webfont._V285630899_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-bd-webfont._V285630899_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/air-bd-webfont._V285630899_.svg#airbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'camber';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Rg._V298017860_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Rg._V298017860_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Rg._V298017860_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Rg._V298017860_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Rg._V298017860_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Rg._V298017860_.svg#air_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'camber';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Bd._V298017913_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Bd._V298017913_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Bd._V298017913_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Bd._V298017913_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Bd._V298017913_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Camber-Bd._V298017913_.svg#airbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'graphik';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Regular._V298018064_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Regular._V298018064_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Regular._V298018064_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Regular._V298018064_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Regular._V298018064_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Regular._V298018064_.svg#air_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'graphik';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Bold._V298018299_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Bold._V298018299_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Bold._V298018299_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Bold._V298018299_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Bold._V298018299_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/Graphik-Bold._V298018299_.svg#airbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'adellesans';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-regular-webfont._V298023596_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-regular-webfont._V298023596_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-regular-webfont._V298023596_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-regular-webfont._V298023596_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-regular-webfont._V298023596_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-regular-webfont._V298023596_.svg#air_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'adellesans';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-bold-webfont._V298023596_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-bold-webfont._V298023596_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-bold-webfont._V298023596_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-bold-webfont._V298023596_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-bold-webfont._V298023596_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/adellesans-bold-webfont._V298023596_.svg#airbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'atlasgrotesk';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Regular._V298017840_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Regular._V298017840_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Regular._V298017840_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Regular._V298017840_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Regular._V298017840_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Regular._V298017840_.svg#air_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'atlasgrotesk';
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Bold._V298018045_.eot');
+    src: url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Bold._V298018045_.eot?#iefix') format('embedded-opentype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Bold._V298018045_.woff2') format('woff2'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Bold._V298018045_.woff') format('woff'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Bold._V298018045_.ttf') format('truetype'),
+         url('https://images-na.ssl-images-amazon.com/images/G/01/audibleweb/brickcity/1.0/fonts/test/AtlasGrotesk-Bold._V298018045_.svg#airbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+.bc-fonttype-graphik {
+	font-family: 'graphik' !important;
+}
+
+.bc-fonttype-adellesans {
+	font-family: 'adellesans' !important;
+}
+
+.bc-fonttype-atlasgrotesk {
+	font-family: 'atlasgrotesk' !important;
+}
+
+.bc-fonttype-camber {
+	font-family: 'camber' !important;
+}
+
+.bc-fonttype-vaud {
+	font-family: 'vaud' !important;
+}
+
+.bc-fonttype-tradeGothic {
+	font-family: 'trade gothic' !important;
+}
+
+.bc-fonttype-air {
+	font-family: 'air' !important;
+}
+
+.bc-fonttype-aaux {
+	font-family: 'aaux' !important;
+}

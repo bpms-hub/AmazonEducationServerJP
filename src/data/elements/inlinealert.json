@@ -1,0 +1,45 @@
+{
+	"summary": "",
+	"tag": "InlineAlert",
+	"params": {
+		"visual": [
+			{
+				"name": "content",
+				"type": "text"
+			},
+			{
+				"name": "alertType",
+				"type": "list",
+				"opt": ["error", "info"]
+			},
+			{
+				"name": "spacing",
+				"type": "list",
+				"opt": ["none","micro","mini","small","base","medium","large","extra-large","double-large"]
+			},
+			{
+				"name": "spacingTop",
+				"type": "list",
+				"opt": ["none","micro","mini","small","base","medium","large","extra-large","double-large"]
+			}
+		],
+		"other": [
+			{
+				"name": "id",
+				"type": "text"
+			},
+			{
+				"name": "cssClass",
+				"type": "text"
+			}
+		]
+	},
+	"defaultState": [
+		{
+			"content": "This is an inline alert."
+		},
+		{
+			"alertType": "error"
+		}
+	]
+}

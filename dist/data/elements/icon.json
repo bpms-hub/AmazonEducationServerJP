@@ -1,0 +1,41 @@
+{
+	"summary": "",
+	"tag": "Icon",
+	"params": {
+		"visual": [
+			{
+				"name": "iconSize",
+				"type": "list",
+				"opt": ["base", "medium", "large"]
+			},
+			{
+				"name": "textColor",
+				"type": "list",
+				"opt": ["base", "secondary", "tertiary", "inactive", "primary", "active", "link", "error", "inverse"]
+			},
+			{
+				"name": "iconType",
+				"type": "list",
+				"opt": ["add", "add-circle", "amazon", "android", "apple", "archive", "calendar", "caret-down", "caret-left", "caret-right", "caret-up", "cart", "chat", "check", "chevron-down", "chevron-left", "chevron-right", "chevron-up", "clock", "close", "download", "edit", "envelope", "exclamation-triangle", "facebook", "facebook-square", "file", "filter", "gift", "googleplus", "grid", "hamburger", "info-circle", "list", "location", "microphone", "move-to-bottom", "move-to-top", "overflow-vertical", "pause", "phone", "pin", "pinterest", "play", "podcast", "related", "restore", "search", "series", "skip", "star", "star-half-left", "star-half-right", "star-hollow", "trash", "twitter", "whispersync", "windows" ]
+			},
+			{
+				"name": "verticalAlign",
+				"type": "list",
+				"opt": ["bottom", "baseline", "middle", "top"]
+			}
+		],
+		"other": [
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "id",
+				"type": "text"
+			}
+		]
+	},
+	"defaultState": {
+		"iconType": "add"
+	}
+}

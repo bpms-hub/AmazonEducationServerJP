@@ -1,0 +1,30 @@
+{
+	"summary": "",
+	"tag": "DropdownOption",
+	"params": {
+		"visual": [
+			{
+				"name": "disabled",
+				"type": "checkbox"
+			},
+			{
+				"name": "selectedOption",
+				"type": "text"
+			}
+		],
+		"other": [
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "id",
+				"type": "text"
+			},
+			{
+				"name": "value",
+				"type": "text"
+			}
+		]
+	}
+}

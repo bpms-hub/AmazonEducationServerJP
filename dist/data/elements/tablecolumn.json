@@ -1,0 +1,19 @@
+{
+	"summary": "",
+	"tag": "TableColumn",
+
+	"params": {
+		"visual": [
+		],
+		"other": [
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "id",
+				"type": "text"
+			}
+		]
+	}
+}

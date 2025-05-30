@@ -1,0 +1,75 @@
+{
+	"summary": "",
+	"tag": "Heading",
+	"params": {
+		"visual": [
+			{
+				"name": "content",
+				"type": "text"
+			},
+			{
+				"name": "headingLevel",
+				"type": "text"
+			},
+			{
+				"name": "spacing",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"]
+			},
+			{
+				"name": "spacingTop",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"]
+			},
+			{
+				"name": "textAlign",
+				"type": "list",
+				"opt": ["center", "left", "right"]
+			},
+			{
+				"name": "textBold",
+				"type": "checkbox"
+			},
+			{
+				"name": "textCapitalize",
+				"type": "checkbox"
+			},
+			{
+				"name": "textColor",
+				"type": "list",
+				"opt": ["base", "secondary", "tertiary", "inactive", "state", "link"]
+			},
+			{
+				"name": "textEmphasis",
+				"type": "checkbox"
+			},
+			{
+				"name": "textNormal",
+				"type": "checkbox"
+			},
+			{
+				"name": "textQuote",
+				"type": "checkbox"
+			},
+			{
+				"name": "textSize",
+				"type": "list",
+				"opt": ["mini", "small", "base", "medium", "large", "extra-large"]
+			},
+			{
+				"name": "textStrike",
+				"type": "checkbox"
+			}
+		],
+		"other": [
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "id",
+				"type": "text"
+			}
+		]
+	}
+}

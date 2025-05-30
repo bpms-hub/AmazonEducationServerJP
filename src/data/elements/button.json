@@ -1,0 +1,73 @@
+{
+	"summary": "",
+	"tag": "Button",
+	"params": {
+		"visual": [
+			{
+				"name": "content",
+				"type": "text",
+				"description": "Content to Display"
+			},
+			{
+				"name": "buttonType",
+				"type": "list",
+				"opt": ["default","primary"]
+			},
+			{
+				"name": "size",
+				"type": "list",
+				"opt": ["default", "small"]
+			},
+			{
+				"name": "htmlButtonType",
+				"type": "list",
+				"opt": ["button", "submit", "reset"]
+			},
+			{
+				"name": "disabled",
+				"type": "checkbox"
+			},
+			{
+				"name": "spacing",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"]
+			},
+			{
+				"name": "spacingTop",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"]
+			},
+			{
+				"name": "inline",
+				"type": "checkbox"
+			},
+			{
+				"name": "inverse",
+				"type": "checkbox"
+			}
+		],
+		"other": [
+			{
+				"name": "id",
+				"type": "text",
+				"description": ""
+			},
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "url",
+				"type": "text"
+			},
+			{
+				"name": "siteCatalyst",
+				"type": "text"
+			},
+			{
+				"name": "value",
+				"type": "text"
+			}
+		]
+	}
+}

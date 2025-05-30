@@ -1,0 +1,63 @@
+{
+	"summary": "",
+	"tag": "GridColumn",
+	"defaultState":{
+			"cssClass": "bc-show-invisible",
+			"gridUnits": 1
+	},
+	"params": {
+		"visual": [
+			{
+				"name": "position",
+				"type": "list",
+				"opt": ["last"]
+			},
+			{
+				"name": "spacing",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"],
+				"description":"Space under the element"
+			},
+			{
+				"name": "spacingTop",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"],
+				"description":"Space over the element"
+			},
+			{
+				"name": "textAlign",
+				"type": "list",
+				"opt": ["center", "left", "right"],
+				"description":"Allign text accross the element container"
+			},
+			{
+				"name": "gridUnits",
+				"type": "list",
+				"opt": ["1", "2", "3","4", "5", "6","7", "8", "9","10", "11", "12"],
+				"description":"Define the lenght, number of units of the grid. 1-12"
+			},
+			{
+				"name": "gridPush",
+				"type": "list",
+				"opt": ["1", "2", "3","4", "5", "6","7", "8", "9","10", "11", "12"],
+				"description": "Push the grid the # of units to the right"
+			},
+			{
+				"name": "gridPull",
+				"type": "list",
+				"opt": ["1", "2", "3","4", "5", "6","7", "8", "9","10", "11", "12"],
+				"description":"Pull the grid the # of units to the left"
+			}
+		],
+		"other": [
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "id",
+				"type": "text"
+			}
+		]
+	}
+}

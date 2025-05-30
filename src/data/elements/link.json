@@ -1,0 +1,77 @@
+{	
+	"summary": "",
+	"tag": "Link",
+	"params": {
+		"visual": [
+			{	
+				"name": "content",
+				"type": "text"
+			},
+			{
+				"name": "linkType",
+				"type": "list",
+				"opt": ["default", "nav"]
+			},
+			{
+				"name": "textColor",
+				"type": "list",
+				"opt": ["base", "secondary", "tertiary", "inactive", "primary", "active", "link", "error", "inverse"]
+			},
+			{
+				"name": "textSize",
+				"type": "list",
+				"opt": ["mini", "small", "base", "medium", "large", "extra-large"]
+			},
+			{
+				"name": "textBold",
+				"type": "checkbox"
+			},
+			{
+				"name": "textCapitalize",
+				"type": "checkbox"
+			},
+			{
+				"name": "textEmphasis",
+				"type": "checkbox"
+			},
+			{
+				"name": "textQuote",
+				"type": "checkbox"
+			},
+			{
+				"name": "textStrike",
+				"type": "checkbox"
+			},
+			{
+				"name": "textNormal",
+				"type": "checkbox"
+			}
+		],
+		"other": [
+			{	
+				"name": "id",
+				"type": "text"
+			},
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "target",
+				"type": "text"
+			},
+			{
+				"name": "title",
+				"type": "text"
+			},
+			{
+				"name": "rel",
+				"type": "text"
+			},
+			{
+				"name": "url",
+				"type": "text"
+			}
+		]
+	}
+}

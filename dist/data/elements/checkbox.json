@@ -1,0 +1,51 @@
+{
+	"summary": "",
+	"tag": "Checkbox",
+	"params": {
+		"visual": [
+			{
+				"name": "content",
+				"type": "text"
+			},
+			{
+				"name": "spacing",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"]
+			},
+			{
+				"name": "spacingTop",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"]
+			},
+			{
+				"name": "checked",
+				"type": "checkbox"
+			},
+			{
+				"name": "disabled",
+				"type": "checkbox"
+			}
+		],
+		"other": [
+			{
+				"name": "outerId",
+				"type": "text"
+			},			{
+				"name": "inputId",
+				"type": "text"
+			},
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "value",
+				"type": "text"
+			},
+			{
+				"name": "name",
+				"type": "text"
+			}
+		]
+	}
+}

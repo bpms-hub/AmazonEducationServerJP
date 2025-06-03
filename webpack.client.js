@@ -8,10 +8,10 @@ module.exports = {
 	devtool: false,
 	entry:   ["./src/app"],
 	output:  {
-		path:          path.join(__dirname, "assets"),
-		filename:      "app.js",
+		path: path.join(__dirname, "docs"),
+		filename: "bundle.js",
 		chunkFilename: "[name].[id].js",
-		publicPath:    "/"
+		publicPath: "/"
 	},
 	plugins: [
 		new webpack.DefinePlugin({__CLIENT__: true, __SERVER__: false}),

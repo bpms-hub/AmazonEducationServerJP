@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>bookmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons-iOS" sketch:type="MSArtboardGroup" transform="translate(-17.000000, -17.000000)">
+            <g id="bookmark" sketch:type="MSLayerGroup" transform="translate(17.000000, 17.000000)" fill="#666666">
+                <g transform="translate(3.000000, 2.000000)" sketch:type="MSShapeGroup">
+                    <path d="M0,20 L0,0 L17,0 L17,20 L8.508,17.62 L0,20 L0,20 Z M2,2 L2,17.362 L8.508,15.543 L15,17.353 L15,2 L2,2 L2,2 Z" id="Fill-1"></path>
+                    <path d="M8,6 L9,6 L9,13 L8,13 L8,6 Z" id="Fill-2"></path>
+                    <path d="M5,9 L12,9 L12,10 L5,10 L5,9 Z" id="Fill-3"></path>
+                </g>
+            </g>
+            <g id="Imported-EPS" sketch:type="MSLayerGroup" fill="#FFFFFF">
+                <path d="M6.988,8.935 L3.494,5.441 L0,8.935 L2.423,8.935 L2.423,8.945 C2.423,13.939 6.484,18 11.477,18 C16.47,18 20.532,13.939 20.532,8.945 C20.532,3.952 16.47,0 11.477,0 C9.082,0 6.906,0.832 5.285,2.357 L6.699,3.771 C7.957,2.608 9.633,2 11.477,2 C15.367,2 18.532,5.056 18.532,8.945 C18.532,12.835 15.367,16 11.477,16 C7.588,16 4.423,12.835 4.423,8.945 L4.423,8.935 L6.988,8.935" id="Page-1" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>

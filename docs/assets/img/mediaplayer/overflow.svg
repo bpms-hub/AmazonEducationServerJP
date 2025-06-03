@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15857) - http://www.bohemiancoding.com/sketch -->
+    <title>overflow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons-iOS" sketch:type="MSArtboardGroup" transform="translate(-77.000000, -81.000000)" fill="#666666">
+            <g id="overflow" sketch:type="MSLayerGroup" transform="translate(77.000000, 81.000000)">
+                <g transform="translate(11.500000, 12.000000) rotate(-270.000000) translate(-11.500000, -12.000000) translate(9.000000, 3.000000)" sketch:type="MSShapeGroup">
+                    <path d="M2.149,0 C1.05,0 0.16,0.891 0.16,1.988 C0.16,3.086 1.05,3.977 2.149,3.977 C3.248,3.977 4.137,3.086 4.137,1.988 C4.137,0.891 3.248,0 2.149,0" id="Fill-1"></path>
+                    <path d="M2.149,7 C1.05,7 0.16,7.891 0.16,8.988 C0.16,10.086 1.05,10.977 2.149,10.977 C3.248,10.977 4.137,10.086 4.137,8.988 C4.137,7.891 3.248,7 2.149,7" id="Fill-2"></path>
+                    <path d="M2.149,14.023 C1.05,14.023 0.16,14.914 0.16,16.01 C0.16,17.109 1.05,18 2.149,18 C3.248,18 4.137,17.109 4.137,16.01 C4.137,14.914 3.248,14.023 2.149,14.023" id="Fill-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

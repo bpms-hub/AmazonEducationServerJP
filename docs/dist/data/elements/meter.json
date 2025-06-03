@@ -1,0 +1,34 @@
+{
+	"summary": "",
+	"tag": "Meter",
+	"params": {
+		"visual": [
+			{
+				"name": "inactiveColor",
+				"type": "list",
+				"opt": ["base","inverse"]
+			},
+			{
+				"name": "meterHeight",
+				"type": "text"
+			},
+			{
+				"name": "percentage",
+				"type": "text"
+			},
+			{
+				"name": "progressColor",
+				"type": "list",
+				"opt": ["base","inverse"]
+			}
+		],
+		"other": [
+
+		]
+	},
+	"defaultState":[
+		{
+			"percentage": "40"
+		}
+	]
+}

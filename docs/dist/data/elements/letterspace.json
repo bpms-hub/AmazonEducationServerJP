@@ -1,0 +1,16 @@
+{
+	"summary": "",
+	"tag": "LetterSpace",
+	"params": {
+		"visual": [
+			{
+				"name": "size",
+				"type": "list",
+				"opt": ["micro","mini","small","base","medium","large","extra-large"]
+			}
+		],
+		"other": [
+
+		]
+	}
+}

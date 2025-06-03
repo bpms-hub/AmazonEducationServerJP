@@ -38,13 +38,13 @@ class AESidebar extends React.Component {
 									</BC.ListItem>
 
 									<BC.LetterSpace size="large">	<BC.ListItem spacing="mini">
-							<BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/back-arrow"}>
+							<BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/back-arrow"}>
 									Back Arrow </BC.Link>
 									</BC.ListItem></BC.LetterSpace>
 
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/bottom-sheet"}>Bottom Sheet</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/bottom-sheet"}>Bottom Sheet</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">

@@ -28,10 +28,10 @@ class AESidebar extends React.Component {
 	              <BC.List spacing="none" listType="nostyle" textSize="base">
 
 	                <BC.ListItem spacing="mini">
-	              <div onClick={this.handleClick.bind(this, "step1")}>    <BC.Link textColor="base" textBold={true} textSize="base" linkType="nav" url={"/education/waffle/updates"}>Updates</BC.Link> </div>
+	              <div onClick={this.handleClick.bind(this, "step1")}>    <BC.Link textColor="base" textBold={true} textSize="base" linkType="nav" url={"#/education/waffle/updates"}>Updates</BC.Link> </div>
 	                </BC.ListItem>
 									<BC.ListItem spacing="mini">
-										<BC.Link textColor="base" textBold={true} linkType="nav" textSize="base" url={"/education/waffle/principles"}>Principles</BC.Link>
+										<BC.Link textColor="base" textBold={true} linkType="nav" textSize="base" url={"#/education/waffle/principles"}>Principles</BC.Link>
 									</BC.ListItem>
 									<BC.ListItem spacing="small">
 										<BC.Text textColor="base" textBold={true} textSize="base" linkType="nav" disabled={true}>Components</BC.Text>

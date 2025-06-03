@@ -48,62 +48,62 @@ class AESidebar extends React.Component {
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link  textColor="base" textSize="base" linkType="nav" url={"/education/waffle/buttons"}>Buttons</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link  textColor="base" textSize="base" linkType="nav" url={"#/education/waffle/buttons"}>Buttons</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/cards"}>Cards</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/cards"}>Cards</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/checkbox"}>Check Boxes</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/checkbox"}>Check Boxes</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-	                  <BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/dialogues"}>Dialogues</BC.Link>
+	                  <BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/dialogues"}>Dialogues</BC.Link>
 	                </BC.ListItem>
 
 
 
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/lists"}>Lists</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/lists"}>Lists</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/menus"}>Menus</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/menus"}>Menus</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" url={"/education/waffle/dots"} textSize="base">Progression Dots</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" url={"#/education/waffle/dots"} textSize="base">Progression Dots</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link textColor="base" linkType="nav" textSize="base" url={"/education/waffle/radio-buttons"}>Radio Buttons</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link textColor="base" linkType="nav" textSize="base" url={"#/education/waffle/radio-buttons"}>Radio Buttons</BC.Link>
 									</BC.ListItem>
 
 	                <BC.ListItem spacing="mini">
-	                  <BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/range-sliders"}>Range Sliders</BC.Link>
+	                  <BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/range-sliders"}>Range Sliders</BC.Link>
 	                </BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/scrubbers"}>Scrubbers</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/scrubbers"}>Scrubbers</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/snackbars"}>Snackbars</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/snackbars"}>Snackbars</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/tabs"}>Tabs</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/tabs"}>Tabs</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/tiles"}>Tiles</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/tiles"}>Tiles</BC.Link>
 									</BC.ListItem>
 
 									<BC.ListItem spacing="mini">
-										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"/education/waffle/toggle"}>Toggle</BC.Link>
+										<BC.LetterSpace size="base"/><BC.Link linkType="nav" textColor="base" textSize="base" url={"#/education/waffle/toggle"}>Toggle</BC.Link>
 									</BC.ListItem>
 
 	              </BC.List>

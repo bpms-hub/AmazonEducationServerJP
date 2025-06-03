@@ -14,8 +14,16 @@
       import React from 'react';
       import ReactDOM from 'react-dom';
       import App from './App'; // or your root component
+      import { HashRouter } from 'react-router-dom';
+      // or for older react-router
+      // import { Router, hashHistory } from 'react-router';
 
-      ReactDOM.render(<App />, document.getElementById('app'));
+      ReactDOM.render(
+        <HashRouter>
+          <App />
+        </HashRouter>,
+        document.getElementById('app')
+      );
     </script>
   </body>
 </html>

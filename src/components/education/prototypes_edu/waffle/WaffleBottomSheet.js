@@ -32,9 +32,9 @@ class WaffleBottomSheet extends React.Component{
           <WBottomSheetAndroid />
         </CC.TabPanel>
 
-        <CC.TabPanel title="">
-          <WButtonsIOS />
-        </CC.TabPanel>
+        {/* <CC.TabPanel title=""> */}
+          {/* <WButtonsIOS /> */}
+        {/* </CC.TabPanel> */}
     </CC.Tabs>
 
 </BC.Box>

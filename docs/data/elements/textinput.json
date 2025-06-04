@@ -1,0 +1,65 @@
+{
+	"summary": "",
+	"tag": "TextInput",
+	"params": {
+		"visual": [
+			{
+				"name": "maxLength",
+				"type": "text"
+			},
+			{
+				"name": "placeholder",
+				"type": "text"
+			},	
+			{
+				"name": "inline",
+				"type": "checkbox"
+			},
+			{
+				"name": "required",
+				"type": "checkbox"
+			},
+			{
+				"name": "spacing",
+				"type": "list",
+				"opt": ["none","micro","mini","small","base","medium","large","extra-large","double-large"]
+			},
+			{
+				"name": "spacingTop",
+				"type": "list",
+				"opt": ["none","micro","mini","small","base","medium","large","extra-large","double-large"]
+			},
+			{
+				"name": "status",
+				"type": "text"
+			}
+		],
+		"other": [
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "id",
+				"type": "text"
+			},
+			{
+				"name": "name",
+				"type": "text"
+			},
+			{
+				"name": "type",
+				"type": "text"
+			},
+			{
+				"name": "value",
+				"type": "text"
+			}
+		]
+	},
+	"defaultState":[
+		{
+			"placeholder": "placeholder text"
+		}
+	]
+}

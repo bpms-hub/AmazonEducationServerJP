@@ -1,0 +1,64 @@
+{
+	"summary": "",
+	"tag": "FixedGridColumn",
+	"defaultState":{
+			"cssClass": "bc-show-invisible",
+			"fixedColumn":"left",
+			"fixedColumnWidth": 200
+	},
+	"params": {
+		"visual": [
+			{
+				"name":"fixedColumn",
+				"type": "list",
+				"opt":["left","right"],
+				"description": "Define which column is going to be static. The other one will be fluid."
+			},
+			{
+				"name":"columnPadding",
+				"type":"text",
+				"description": "Adding extra padding to the column, use only when no other option solves the problem"
+			},
+			{
+				"name":"fixedColumnWidth",
+				"type": "text",
+				"description": "Define the lenght of the width"
+			},
+			{
+				"name":"side",
+				"type": "list",
+				"opt":["left","right"]
+			},
+			{
+				"name": "spacing",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"],
+				"description":"Space under the element"
+			},
+			{
+				"name": "spacingTop",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"],
+				"description":"Space over the element"
+			},
+			{
+				"name": "textAlign",
+				"type": "list",
+				"opt": ["center", "left", "right"],
+				"description":"Allign text accross the element container"
+			}
+		],
+
+		"other": [
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "id",
+				"type": "text"
+			}
+		]
+
+	}
+}

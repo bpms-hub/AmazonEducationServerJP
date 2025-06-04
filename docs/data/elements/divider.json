@@ -1,0 +1,41 @@
+{
+	"summary": "",
+	"tag": "Divider",
+	"params": {
+		"visual": [
+			{
+				"name": "inverse",
+				"type": "checkbox"
+			},
+			{
+				"name": "dividerType",
+				"type": "list",
+				"opt": ["regular", "dotted"]
+			},
+			{
+				"name": "thick",
+				"type": "checkbox"
+			},
+			{
+				"name": "spacing",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"]
+			},
+			{
+				"name": "spacingTop",
+				"type": "list",
+				"opt": ["none", "micro","mini","small","base","medium","large","extra-large","double-large"]
+			}	
+		],
+		"other": [
+			{
+				"name": "cssClass",
+				"type": "text"
+			},
+			{
+				"name": "id",
+				"type": "text"
+			}
+		]
+	}
+}
